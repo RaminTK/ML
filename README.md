@@ -1,4 +1,5 @@
-# Dealing with manipulation in Big Data: Second-hand cars industry case study
+# Dealing with manipulation in Big Data: 
+# Second-hand cars industry case study
 
 sed Cars Dataset is about Craigslist which is one of the largest collections of second-hand cars database
 Data contains information of used vehicles in United States of America. It can be found in Kaggle (2020).
