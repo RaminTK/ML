@@ -5,6 +5,8 @@ Data contains information of used vehicles in United States of America. It can b
 There are 26 features and 458,213 rows
 There are 3 columns with integer data type, 4 columns with float data type and the rest of the 19
 
+The data cleaning techniques are used on this dataset to reduce the effects of manipulations in the dataset.
+
 I used several regressions to predict the true price of 2nd hand cars.
 
 The regressions used are as follows:
